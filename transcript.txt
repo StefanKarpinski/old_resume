@@ -1,0 +1,43 @@
+
+# Fall 1996
+Math 25A	Honors Adv Calculus & Linear Alg	B	concentration
+Lit-Art B-17	The Visual Arts				B+	core
+Compsci 50	Intro to Computer Science		B-	elective
+Expos 20	Expository Writing			B	core
+
+# Spring 1997
+Science B-29	Human Behavioral Biology		A-	core
+Math 25B	Honors Advanced Calculus		B	concentration
+Compsci 51	Intro to Computer Science II		A-	concentration
+VES 176		Visual Math: Studio/Seminar		B	elective
+
+# Fall 1997
+Compsci 121	Formal Systems & Computation		A-	concentration
+Lit-Art A-46	The City & the Novel			A	core
+Math 143R	Descriptive Set Theory			A-	concentration
+Math 122	Abstract Algebra I			A-	concentration
+
+# Spring 1998
+Soc-Anal 34	Knowledge of Language			B	core
+Math 131	Topology				A	concentration
+Math 123	Abstract Algebra II			A-	concentration
+Lit-Art C-18	Hindu Myth, Image & Pilgrimage		B	core
+
+# Fall 1998
+Math 126	Representation Theory			A	concentration
+Math 113	Complex Analysis			A	concentration
+Math 99R	Tutorial: Algebraic Number Theory	B+	concentration
+Music 1A	Introduction to Music I			A-	elective
+
+# Fall 1999
+Math 272A	Intro to Algebraic Topology		B	concentration
+German CA	Intermediate German			B+	elective
+Compsci 143	Computer Networks			A-	elective
+Math 60R	Reading Course for Senior Honors	pass	concentration
+
+# Spring 2000
+For-Cult 78	Emergence of Modern Scandinavia		A-	core
+Ling 80		Dialects of English			pass	elective
+German CB	Intermediate German			B+	elective
+Scand 91R	Supervised Reading in Swedish		A	elective
+

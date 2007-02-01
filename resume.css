@@ -1,0 +1,83 @@
+html {
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+html, td {
+	font-size: 12px;
+	font-family: Georgia, Arial, sans-serif;
+}
+p {
+	margin-left: 9px;
+	margin-right: 9px;
+	text-align: justify;
+}
+body p {
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+table p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.header, .section {
+	border-style: dotted;
+	border-width: 1px;
+	margin: 10px 6px 10px 6px;
+	padding: 6px;
+}
+.header {
+	background: #dee7f4;
+}
+.section {
+	background: #e6e6e6;
+}
+
+.name {
+	color: #191919;
+	text-transform: lowercase;
+	margin-bottom: 6px;
+	letter-spacing: 3px;
+	font-size: 26px;
+	font-weight: normal;
+}
+.email {
+	color: #4c4c4c;
+	font-size: 14px;
+	margin-bottom: 2px;
+}
+
+.address {
+	color: #191919;
+}
+.section-title {
+	font-size: 16px;
+	font-weight: normal;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 0px;
+	margin-bottom: 4px;
+	background: #c0c9d7;
+}
+.entry-name {
+	color: #333333;
+	font-size: 13px;
+	font-weight: bold;
+}
+.entry-info {
+	color: #4c4c4c;
+	font-weight: bold;
+}
+.entry-position {
+	color: #000000;
+	font-weight: bold;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+a:hover {
+	color: #191919;
+	border-bottom: 1px dotted #4c4c4c;
+}

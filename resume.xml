@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<resume>
+    <name>Stefan Karpinski</name>
+    <email>stefan.karpinski@post.harvard.edu</email>
+    <address which="current">
+        <line><street>25 West Islay St</street></line>
+        <line><city>Santa Barbara</city> <state>CA</state> <zip>93101</zip></line>
+        <line><phone>857-205-6283</phone></line>
+    </address>
+    <address which="permanent">
+		<line><care-of>c/o Dr. Richard Karpinski</care-of></line>
+        <line><street>200 Central Park South</street></line>
+        <line><city>New York</city> <state>NY</state> <zip>10019</zip></line>
+    </address>
+
+	<section title="Education">
+        <entry>
+            <name>University of California at Santa Barbara</name>
+            <link>http://www.cs.ucsb.edu</link>
+            <dates>2002-present</dates>
+            <location>Santa Barbara, CA</location>
+            <paragraph>
+                PhD in Computer Science expected in June 2008. Field of research: the impact of traffic patterns on wireless network performance; applications of  probability theory and statistical analysis to wireless networking. Current research: analysis and modeling of wireless data collected at IETF meetings and other large wireless testbeds.
+                Other major interests: distributed systems, programming languages, computational theory, security and cryptography. Graduate studies include: algorithmic theory, distributed systems, modern programming languages and systems, automata-based complexity, networking, mobile and wireless computing, delay-tolerant networking, security, game theory, information theory, and stochastic processes.
+                [GPA: 4.0]
+            </paragraph>
+        </entry>
+        <entry>
+            <name>Harvard University</name>
+            <link>http://www.harvard.edu</link>
+            <dates>1996-2000</dates>
+            <location>Cambridge, MA</location>
+            <paragraph>
+                BA degree in Mathematics with honors received in June 2000. Harvard College Scholarship recipient. Have in-depth working knowledge of all branches of modern mathematics including analysis, geometry, abstract algebra, descriptive and classical set theory, point-set and algebraic topology. Course work in computer science included: network programming, mobile and wireless networking, mobile IP, routing protocols, natural language processing, compilers and interpreters, computational theory, tractability problems and algorithmic efficiency.
+                [GPA: 3.56]
+            </paragraph>
+        </entry>
+        <entry>
+            <name>Budapest Semesters in Mathematics</name>
+            <link>http://www.stolaf.edu/depts/math/budapest</link>
+            <dates>Spring 1999</dates>
+            <location>Budapest, Hungary</location>
+            <paragraph>
+                Studied measure theory, integration theory (generalized Lebesgue integrals), Lie Algebras, functional analysis, Euclidean, hyperbolic and projective geometries with applications to computer graphics.
+            </paragraph>
+        </entry>
+        <entry>
+            <name>Columbia University</name>
+            <link>http://www.columbia.edu</link>
+            <dates>1994-1996</dates>
+            <location>New York, NY</location>
+            <paragraph>
+                Audited courses in analysis and group theory.
+            </paragraph>
+        </entry>
+        <entry>
+            <name>Regis High School</name>
+            <link>http://www.regis-nyc.org</link>
+            <dates>1991-1996</dates>
+            <location>New York, NY</location>
+        </entry>
+    </section>
+
+    <section title="Work Experience">
+        <entry>
+            <name>Citrix Online</name>
+            <link>http://www.citrixonline.com</link>
+            <dates>part time 2004-present</dates>
+            <location>Santa Barbara, CA</location>
+            <position>Networking Researcher</position>
+            <paragraph>
+				<project>
+					<name>Network Path Selection</name>
+					<date>2006</date>
+					<description>
+						Invented and prototyped a completely redesigned Network Path Selection system, including the core prediction algorithm and data structures. This system provides real-time datacenter/ISP performance predictions for every client connecting any Citrix Online service.
+					</description>
+				</project>
+				<project>
+					<name>Netmap</name>
+					<date>2005</date>
+					<description>
+						Built a system to perform lightweight, real-time mapping of all Internet paths between data centers and client hosts, using probabilistic databases and information theory.
+					</description>
+				</project>
+				<project>
+					<name>Fast Failover</name>
+					<date>2004</date>
+					<description>
+						Developed and prototyped a robust, scalable multipath route selection algorithm using a modified paired-series <italic>t</italic>-test. Also created a highly flexible Internet simulation environment for testing and evaluating multipath routing algorithms.
+					</description>
+				</project>
+            </paragraph>
+        </entry>
+        <entry>
+            <name>University of California at Santa Barbara</name>
+            <link>http://www.cs.ucsb.edu</link>
+            <dates>2002-2004, 2006</dates>
+            <location>Santa Barbara, CA</location>
+            <position>Teaching Assistant</position>
+            <paragraph>
+                Taught weekly discussion sessions, held office hours, graded assignments and exams, created and maintained course web-pages, gave lectures when necessary. Subjects taught: formal languages and automata, complexity theory, advanced data structures and algorithms, software engineering with Java, scalable web application development with Ruby on Rails
+				[<link href="http://courses.voneicken.com/ucsb-cs290f-fa06/index.php/Home">course website</link>].
+            </paragraph>
+        </entry>
+        <entry>
+            <name>Akamai Technologies</name>
+            <link>http://www.akamai.com</link>
+            <dates>2000-2002</dates>
+            <location>Cambridge, MA</location>
+            <position>Software Engineer</position>
+            <paragraph>
+                Engineered, maintained and designed a variety of systems and tools for deploying, monitoring and managing Akamai's global content delivery network of 10,000+ servers worldwide. Primarily worked in C and Perl, with some C++, Python and Java.
+            </paragraph>
+        </entry>
+        <entry>
+            <name>Harvard University</name>
+            <link>http://www.harvard.edu</link>
+            <dates>1997-2000</dates>
+            <location>Cambridge, MA</location>
+            <position>Course Assistant</position>
+            <paragraph>
+                Taught weekly problem sessions, held office hours, graded assignments, created and maintained course web-pages. Subjects taught: single- and multi-variate calculus, differential equations, methods of numerical approximation, point-set topology, axiomatic and naive set theory, group theory.
+            </paragraph>
+        </entry>
+        <entry>
+            <name>The Rowland Institute for Technology</name>
+            <link>http://www.rowland.org</link>
+            <dates>1998</dates>
+            <location>Cambridge, MA</location>
+            <position>Software Engineer</position>
+            <paragraph>
+                Designed and created a graphical, integrated suite of applications for Windows 95/98. The applications automate the control of equipment for cutting-edge research in quantum physics with scanning tunneling electron microscopes and allow on-the-fly graphical analysis of acquired data within a graphical user interface.
+            </paragraph>
+        </entry>
+        <entry>
+            <name>Medical Liability Mutual Insurance Company</name>
+            <link>http://www.mlmic.com</link>
+            <dates>Summers 1996-1997</dates>
+            <location>New York, NY</location>
+            <position>Programmer and Systems Administration Assistant</position>
+            <paragraph>
+                Wrote database query and information extraction programs in ALGOL, C, C++ and Perl. Worked in Windows, UNIX, Linux and mainframe environments. Assisted in network administration; installed and maintained PC hardware and software.
+            </paragraph>
+        </entry>
+    </section>
+
+    <section title="Skills, Interests &amp; Other">
+        <paragraph label="General">
+            Creating original solutions to difficult problems. Learning new skills quickly with minimal instruction.
+        </paragraph>
+        <paragraph label="Computers">
+            Extensive experience using, administrating and programming for Linux, UNIX and Mac OS X. A thorough understanding of good programming practices and techniques, such as modularity and object-orientation, that allow creation of more robust, maintainable, efficient and portable code. Extensive experience with C, Ruby (and Rails), Perl, shell scripting, PostgreSQL, Mathematica, R, XML, XSLT, LaTeX, GNU Make, Subverion/CVS, BitKeeper and Perforce. Proficient with Java, C++, Python, LISP, Pascal, Tcl, MySQL, Apache, Javascript, HTML, and CSS.</paragraph>
+        <paragraph label="Languages">
+            Fluent in English and Swedish; proficient in German and Latin; basic knowledge of French and Spanish.
+        </paragraph>
+		<paragraph label="Patents">
+			 The Fast Failover algorithm developed at Citrix Online in 2004 is patent pending at the USPTO. Patents will also be filed for the Netmap and Network Path Selection algorithms, developed in 2005 and 2006, respectively.
+		</paragraph>
+		<paragraph label="World Record">
+			Fastest per-navigation of the New York City Subway system, riding trains stopping at each of the 468 stations in the system. New record time: 24 hours, 54 minutes, 3 seconds. Previous record: 26 hours, 21 minutes, 8 seconds. Co-holders: Bill Amarosa (Queens), Michael Boyle (Staten Island), Brian Brockmeyer (Brooklyn), Stefan Karpinski (Manhattan), Jason Laska (The Bronx), and Andrew Weir (Brooklyn). We all went to high school together and completed the challenge to raise money for the school. [<link href="http://rapidtransitchallenge.com/">our website</link>].
+		</paragraph>
+        <paragraph label="Interests">
+            Music of all varieties, reading, traveling, wine &amp; food, ultimate frisbee, soccer, running, learning languages, riding the subway.
+        </paragraph>
+    </section>
+
+</resume>
