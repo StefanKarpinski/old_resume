@@ -16,7 +16,7 @@
 	<section title="Education">
         <entry>
             <name>University of California at Santa Barbara</name>
-            <link>http://www.cs.ucsb.edu</link>
+            <link>http://www.cs.ucsb.edu/</link>
             <dates>2002-present</dates>
             <location>Santa Barbara, CA</location>
             <paragraph>
@@ -27,7 +27,7 @@
         </entry>
         <entry>
             <name>Harvard University</name>
-            <link>http://www.harvard.edu</link>
+            <link>http://www.harvard.edu/</link>
             <dates>1996-2000</dates>
             <location>Cambridge, MA</location>
             <paragraph>
@@ -46,7 +46,7 @@
         </entry>
         <entry>
             <name>Columbia University</name>
-            <link>http://www.columbia.edu</link>
+            <link>http://www.columbia.edu/</link>
             <dates>1994-1996</dates>
             <location>New York, NY</location>
             <paragraph>
@@ -55,7 +55,7 @@
         </entry>
         <entry>
             <name>Regis High School</name>
-            <link>http://www.regis-nyc.org</link>
+            <link>http://www.regis-nyc.org/</link>
             <dates>1991-1996</dates>
             <location>New York, NY</location>
         </entry>
@@ -64,8 +64,8 @@
     <section title="Work Experience">
         <entry>
             <name>Citrix Online</name>
-            <link>http://www.citrixonline.com</link>
-            <dates>part time 2004-present</dates>
+            <link>http://www.citrixonline.com/</link>
+            <dates>part time, 2004-present</dates>
             <location>Santa Barbara, CA</location>
             <position>Networking Researcher</position>
             <paragraph>
@@ -94,7 +94,7 @@
         </entry>
         <entry>
             <name>University of California at Santa Barbara</name>
-            <link>http://www.cs.ucsb.edu</link>
+            <link>http://www.cs.ucsb.edu/</link>
             <dates>2002-2004, 2006</dates>
             <location>Santa Barbara, CA</location>
             <position>Teaching Assistant</position>
@@ -105,7 +105,7 @@
         </entry>
         <entry>
             <name>Akamai Technologies</name>
-            <link>http://www.akamai.com</link>
+            <link>http://www.akamai.com/</link>
             <dates>2000-2002</dates>
             <location>Cambridge, MA</location>
             <position>Software Engineer</position>
@@ -115,7 +115,7 @@
         </entry>
         <entry>
             <name>Harvard University</name>
-            <link>http://www.harvard.edu</link>
+            <link>http://www.harvard.edu/</link>
             <dates>1997-2000</dates>
             <location>Cambridge, MA</location>
             <position>Course Assistant</position>
@@ -125,7 +125,7 @@
         </entry>
         <entry>
             <name>The Rowland Institute for Technology</name>
-            <link>http://www.rowland.org</link>
+            <link>http://www.rowland.org/</link>
             <dates>1998</dates>
             <location>Cambridge, MA</location>
             <position>Software Engineer</position>
@@ -135,8 +135,8 @@
         </entry>
         <entry>
             <name>Medical Liability Mutual Insurance Company</name>
-            <link>http://www.mlmic.com</link>
-            <dates>Summers 1996-1997</dates>
+            <link>http://www.mlmic.com/</link>
+            <dates>summers 1996-1997</dates>
             <location>New York, NY</location>
             <position>Programmer and Systems Administration Assistant</position>
             <paragraph>
@@ -158,7 +158,7 @@
 			 The Fast Failover algorithm developed at Citrix Online in 2004 is patent pending at the USPTO. Patents will also be filed for the Netmap and Network Path Selection algorithms, developed in 2005 and 2006, respectively.
 		</paragraph>
 		<paragraph label="World Record">
-			Fastest per-navigation of the New York City Subway system, riding trains stopping at each of the 468 stations in the system. New record time: 24 hours, 54 minutes, 3 seconds. Previous record: 26 hours, 21 minutes, 8 seconds. Co-holders: Bill Amarosa (Queens), Michael Boyle (Staten Island), Brian Brockmeyer (Brooklyn), Stefan Karpinski (Manhattan), Jason Laska (The Bronx), and Andrew Weir (Brooklyn). We all went to high school together and completed the challenge to raise money for the school. [<link href="http://rapidtransitchallenge.com/">our website</link>].
+			Fastest per-navigation of the New York City Subway system, riding trains stopping at each of the 468 stations in the system. New record time: 24 hours, 54 minutes, 3 seconds. Previous record: 26 hours, 21 minutes, 8 seconds. Co-holders: Bill Amarosa (Queens), Michael Boyle (Staten Island), Brian Brockmeyer (Brooklyn), Stefan Karpinski (Manhattan), Jason Laska (The Bronx), and Andrew Weir (New Jersey). We all went to high school together and completed the challenge to raise money for the school. [<link href="http://rapidtransitchallenge.com/">our website</link>].
 		</paragraph>
         <paragraph label="Interests">
             Music of all varieties, reading, traveling, wine &amp; food, ultimate frisbee, soccer, running, learning languages, riding the subway.

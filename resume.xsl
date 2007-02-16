@@ -58,9 +58,21 @@
 
 <xsl:template match="address">
     <div class="address">
-        <xsl:for-each select="line">
-            <div><xsl:apply-templates/></div>
-        </xsl:for-each>
+		<a style="border-bottom: none">
+			<xsl:attribute name="href">
+				<xsl:text>http://maps.google.com/maps?q=</xsl:text>
+				<xsl:value-of select=".//street"/>
+				<xsl:text>, </xsl:text>
+				<xsl:value-of select=".//city"/>
+				<xsl:text> </xsl:text>
+				<xsl:value-of select=".//state"/>
+				<xsl:text> </xsl:text>
+				<xsl:value-of select=".//zip"/>
+		   	</xsl:attribute>
+	        <xsl:for-each select="line">
+	            <xsl:apply-templates/><br/>
+	        </xsl:for-each>
+		</a>
         <xsl:if test="@which">
             <xsl:text>[</xsl:text>
             <i><xsl:value-of select="@which"/></i>
@@ -86,8 +98,13 @@
         </td>
         <td align="right" class="entry-info">
             <xsl:apply-templates select="dates"/>
-            <xsl:text> </xsl:text>
-            <i><xsl:apply-templates select="location"/></i>
+            <xsl:text>; </xsl:text>
+			<a><xsl:attribute name="href">
+				<xsl:text>http://maps.google.com/maps?q=</xsl:text>
+				<xsl:value-of select="location"/>
+				</xsl:attribute>
+	            <i><xsl:apply-templates select="location"/></i>
+			</a>
         </td>
     </tr>
     <tr>

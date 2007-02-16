@@ -37,9 +37,10 @@ table p {
 	color: #191919;
 	text-transform: lowercase;
 	margin-bottom: 6px;
-	letter-spacing: 3px;
-	font-size: 26px;
+	letter-spacing: 2px;
+	font-size: 31px;
 	font-weight: normal;
+	font-family: Helvetica, Arial, sans-serif;
 }
 .email {
 	color: #4c4c4c;
@@ -80,4 +81,8 @@ a {
 a:hover {
 	color: #191919;
 	border-bottom: 1px dotted #4c4c4c;
+}
+a:hover .noline {
+	color: #191919;
+	border-bottom: none;
 }
