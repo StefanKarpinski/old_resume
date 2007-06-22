@@ -73,7 +73,7 @@
 					<name>Network Path Selection</name>
 					<date>2006</date>
 					<description>
-						Invented and prototyped a completely redesigned Network Path Selection system, including the core prediction algorithm and data structures. This system provides real-time datacenter/ISP performance predictions for every client connecting any Citrix Online service.
+						Invented and prototyped a completely redesigned Network Path Selection system, including the core prediction algorithm and data structures. This system provides real-time datacenter/ISP performance predictions for every client connecting to any Citrix Online service.
 					</description>
 				</project>
 				<project>
@@ -138,7 +138,7 @@
             <link>http://www.mlmic.com/</link>
             <dates>summers 1996-1997</dates>
             <location>New York, NY</location>
-            <position>Programmer and Systems Administration Assistant</position>
+            <position>Programmer &amp; Systems Administration Assistant</position>
             <paragraph>
                 Wrote database query and information extraction programs in ALGOL, C, C++ and Perl. Worked in Windows, UNIX, Linux and mainframe environments. Assisted in network administration; installed and maintained PC hardware and software.
             </paragraph>
@@ -150,7 +150,7 @@
             Creating original solutions to difficult problems. Learning new skills quickly with minimal instruction.
         </paragraph>
         <paragraph label="Computers">
-            Extensive experience using, administrating and programming for Linux, UNIX and Mac OS X. A thorough understanding of good programming practices and techniques, such as modularity and object-orientation, that allow creation of more robust, maintainable, efficient and portable code. Extensive experience with C, Ruby (and Rails), Perl, shell scripting, PostgreSQL, Mathematica, R, XML, XSLT, LaTeX, GNU Make, Subverion/CVS, BitKeeper and Perforce. Proficient with Java, C++, Python, LISP, Pascal, Tcl, MySQL, Apache, Javascript, HTML, and CSS.</paragraph>
+            Extensive experience using, administrating and programming for Linux, UNIX and Mac OS X. A thorough understanding of good programming practices and techniques, such as modularity and object-orientation, that allow creation of more robust, maintainable, efficient and portable code. Extensive experience with C, Ruby (and Rails), Perl, shell scripting, PostgreSQL, Mathematica, R, XML, XSLT, LaTeX, GNU Make, Subversion/CVS, BitKeeper, Git and Perforce. Proficient with Java, C++, Python, LISP, Pascal, Tcl, MySQL, Apache, Javascript, HTML, and CSS.</paragraph>
         <paragraph label="Languages">
             Fluent in English and Swedish; proficient in German and Latin; basic knowledge of French and Spanish.
         </paragraph>
@@ -161,7 +161,7 @@
 			Fastest per-navigation of the New York City Subway system, riding trains stopping at each of the 468 stations in the system. New record time: 24 hours, 54 minutes, 3 seconds. Previous record: 26 hours, 21 minutes, 8 seconds. Co-holders: Bill Amarosa (Queens), Michael Boyle (Staten Island), Brian Brockmeyer (Brooklyn), Stefan Karpinski (Manhattan), Jason Laska (The Bronx), and Andrew Weir (New Jersey). We all went to high school together and completed the challenge to raise money for the school. [<link href="http://rapidtransitchallenge.com/">our website</link>].
 		</paragraph>
         <paragraph label="Interests">
-            Music of all varieties, reading, traveling, wine &amp; food, ultimate frisbee, soccer, running, learning languages, riding the subway.
+            Music of all varieties, reading, traveling, wine &amp; food, ultimate frisbee, learning languages, riding the subway.
         </paragraph>
     </section>
 
