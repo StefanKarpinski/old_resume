@@ -101,7 +101,7 @@
       <location>Santa Barbara, CA</location>
       <position>Teaching Assistant</position>
       <paragraph>
-        Taught weekly discussion sessions, held office hours, graded assignments and exams, created and maintained course web-pages, gave lectures when necessary. Subjects taught: formal languages and automata, complexity theory, advanced data structures and algorithms, software engineering, computer architecture, scalable web application development in Ruby on Rails on EC2 [<link href="http://courses.voneicken.com/ucsb-cs290f-fa06/index.php/Home">course website</link>; software used for this course became <link href="http://www.rightscale.com">RightScale.com</link>], and parallel scientific computing.
+        Taught weekly discussion sessions, held office hours, graded assignments and exams, created and maintained course web-pages, gave lectures when necessary. Subjects taught: formal languages and automata, complexity theory, advanced data structures and algorithms, software engineering, computer architecture, scalable web application development in Ruby on Rails on <link href="http://aws.amazon.com/ec2/">EC2</link> [<link href="http://courses.voneicken.com/ucsb-cs290f-fa06/index.php/Home">course website</link>; software used for this course became <link href="http://www.rightscale.com">RightScale.com</link>], and parallel scientific computing.
       </paragraph>
     </entry>
     <entry>
