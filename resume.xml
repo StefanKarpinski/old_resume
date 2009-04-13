@@ -20,8 +20,10 @@
       <dates>2002-present</dates>
       <location>Santa Barbara, CA</location>
       <paragraph>
-        PhD in Computer Science expected in June 2008. Field of research: the impact of traffic patterns on wireless network performance; applications of  probability theory and statistical analysis to wireless networking. Current research: analysis and modeling of wireless data collected at IETF meetings and other large wireless testbeds.
-        Other major interests: distributed systems, programming languages, computational theory, security and cryptography. Graduate studies include: algorithmic theory, distributed systems, modern programming languages and systems, automata-based complexity, networking, mobile and wireless computing, delay-tolerant networking, security, game theory, information theory, and stochastic processes.
+        PhD in Computer Science expected in September 2009.
+        Field of research: mathematical modeling and analysis of local area network traffic, especially using cutting-edge linear analysis techniques such as nonnegative matrix factorization, matrix completion, and linear subspace segmentation.
+        Other major interests: parallel scientific computing, distributed systems, programming languages, computational theory, security and cryptography.
+        Graduate studies include: algorithmic theory, distributed systems, modern programming languages and systems, automata-based complexity, networking, mobile and wireless computing, delay-tolerant networking, security, game theory, information theory, and stochastic processes.
         [GPA: 4.0]
       </paragraph>
     </entry>
@@ -65,13 +67,13 @@
     <entry>
       <name>Citrix Online</name>
       <link>http://www.citrixonline.com/</link>
-      <dates>part time, 2004-present</dates>
+      <dates>part time, 2004-2007</dates>
       <location>Santa Barbara, CA</location>
       <position>Networking Researcher</position>
       <paragraph>
         <project>
           <name>Network Path Selection</name>
-          <date>2006</date>
+          <date>2006-2007</date>
           <description>
             Invented and prototyped a completely redesigned Network Path Selection system, including the core prediction algorithm and data structures. This system provides real-time datacenter/ISP performance predictions for every client connecting to any Citrix Online service.
           </description>
@@ -95,12 +97,11 @@
     <entry>
       <name>University of California at Santa Barbara</name>
       <link>http://www.cs.ucsb.edu/</link>
-      <dates>2002-2004, 2006</dates>
+      <dates>2002-2004, 2006, 2009</dates>
       <location>Santa Barbara, CA</location>
       <position>Teaching Assistant</position>
       <paragraph>
-        Taught weekly discussion sessions, held office hours, graded assignments and exams, created and maintained course web-pages, gave lectures when necessary. Subjects taught: formal languages and automata, complexity theory, advanced data structures and algorithms, software engineering with Java, modern computer architecture, scalable web application development with Ruby on Rails
-        [<link href="http://courses.voneicken.com/ucsb-cs290f-fa06/index.php/Home">course website</link>].
+        Taught weekly discussion sessions, held office hours, graded assignments and exams, created and maintained course web-pages, gave lectures when necessary. Subjects taught: formal languages and automata, complexity theory, advanced data structures and algorithms, software engineering, computer architecture, scalable web application development in Ruby on Rails on EC2 [<link href="http://courses.voneicken.com/ucsb-cs290f-fa06/index.php/Home">course website</link>; software used for this course became <link href="http://www.rightscale.com">RightScale.com</link>], and parallel scientific computing.
       </paragraph>
     </entry>
     <entry>
@@ -150,13 +151,12 @@
       Creating original solutions to difficult problems. Learning new skills quickly with minimal instruction.
     </paragraph>
     <paragraph label="Computers">
-      Extensive experience using, administrating and programming for Linux, UNIX and Mac OS X. A thorough understanding of good programming practices and techniques, such as modularity and object-orientation, that allow creation of more robust, maintainable, efficient and portable code. Extensive experience with C, Ruby (and Rails), Perl, shell scripting, PostgreSQL, Mathematica, R, XML, XSLT, LaTeX, GNU Make, Subversion/CVS, BitKeeper, Git and Perforce. Proficient with Java, C++, Python, LISP, Pascal, Tcl, MySQL, Apache, Javascript, HTML, and CSS.</paragraph>
+      Extensive experience using, administrating and programming for Linux, UNIX and Mac OS X. A thorough understanding of good programming practices and techniques, such as modularity and object-orientation, that allow creation of more robust, maintainable, efficient and portable code. Extensive experience with C, Ruby (and Rails), Perl, shell scripting, PostgreSQL, Mathematica, Matlab, R, XML, XSLT, LaTeX, GNU Make, Git, Subversion/CVS, BitKeeper, and Perforce. Proficient in Java, C++, Python, Lisp, Pascal, Tcl, MySQL, Apache, Javascript, HTML, and CSS.</paragraph>
     <paragraph label="Languages">
       Fluent in English and Swedish; proficient in German and Latin; basic knowledge of French and Spanish.
     </paragraph>
     <paragraph label="Patents">
-       The Fast Failover algorithm developed at Citrix Online in 2004 is patent pending at the USPTO [<link href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1=%2220080069104%22.PGNR.&amp;OS=DN/20080069104&amp;RS=DN/20080069104">Application 20080069104</link>]. Patents will also be filed for the Netmap and Network Path Selection algorithms, developed in 2005 and 2006, respectively.
-    </paragraph>
+       The Fast Failover algorithm developed at Citrix Online in 2004 is patent pending at the USPTO [<link href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1=%2220080069104%22.PGNR.&amp;OS=DN/20080069104&amp;RS=DN/20080069104">Application 20080069104</link>].     </paragraph>
     <paragraph label="World Record">
       Fastest per-navigation of the New York City Subway system, riding trains stopping at each of the 468 stations in the system. New record time: 24 hours, 54 minutes, 3 seconds. Previous record: 26 hours, 21 minutes, 8 seconds. Co-holders: Bill Amarosa (Queens), Michael Boyle (Staten Island), Brian Brockmeyer (Brooklyn), Stefan Karpinski (Manhattan), Jason Laska (The Bronx), and Andrew Weir (New Jersey). We all went to high school together and completed the challenge to raise money for the school. [<link href="http://rapidtransitchallenge.com/">our website</link>].
     </paragraph>
