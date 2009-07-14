@@ -9,7 +9,7 @@
   <html>
     <head>
       <title><xsl:value-of select="resume/name"/></title>
-      <link rel="stylesheet" type="text/css" href="resume.css"/>
+      <xsl:copy-of select="document('resume.css')"/>
     </head>
     <body>
       <xsl:apply-templates/>
