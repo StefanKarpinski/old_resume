@@ -3,7 +3,6 @@ tidy=tidy
 host=linus
 
 default: resume.html
-	open $^
 
 %.html: %.xml resume.xsl tidy.conf
 	$(call xslt,resume.xsl,$<,$@)
