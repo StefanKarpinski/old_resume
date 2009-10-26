@@ -2,16 +2,6 @@
 <resume>
   <name>Stefan Karpinski</name>
   <email>stefan.karpinski@post.harvard.edu</email>
-  <address which="current">
-    <line><street>25 West Islay St</street></line>
-    <line><city>Santa Barbara</city> <state>CA</state> <zip>93101</zip></line>
-    <line><phone>857-205-6283</phone></line>
-  </address>
-  <address which="permanent">
-    <line><care-of>c/o Dr. Richard Karpinski</care-of></line>
-    <line><street>200 Central Park South</street></line>
-    <line><city>New York</city> <state>NY</state> <zip>10019</zip></line>
-  </address>
 
   <section title="Education">
     <entry>
