@@ -3,56 +3,6 @@
   <name>Stefan Karpinski</name>
   <email>stefan.karpinski@post.harvard.edu</email>
 
-  <section title="Education">
-    <entry>
-      <name>University of California at Santa Barbara</name>
-      <link>http://www.cs.ucsb.edu/</link>
-      <dates>2002-present (in absentia)</dates>
-      <location>Santa Barbara, CA</location>
-      <paragraph>
-        PhD in Computer Science expected in September 2009.
-        Field of research: mathematical modeling and analysis of local area network traffic, especially using linear analysis techniques such as singular value decomposition, nonnegative matrix factorization, low-rank matrix completion, and linear subspace segmentation.
-        Other major interests: parallel scientific computing, distributed systems, programming languages, computational theory, security and cryptography.
-        Graduate studies include: algorithmic theory, distributed systems, modern programming languages and systems, automata-based complexity, networking, mobile and wireless computing, delay-tolerant networking, security, game theory, information theory, and stochastic processes.
-        [GPA: 4.0]
-      </paragraph>
-    </entry>
-    <entry>
-      <name>Harvard University</name>
-      <link>http://www.harvard.edu/</link>
-      <dates>1996-2000</dates>
-      <location>Cambridge, MA</location>
-      <paragraph>
-        BA degree in Mathematics with honors received in June 2000. Harvard College Scholarship recipient. Have in-depth working knowledge of all branches of modern mathematics including analysis, geometry, abstract algebra, descriptive and classical set theory, point-set and algebraic topology. Course work in computer science included: network programming, mobile and wireless networking, mobile IP, routing protocols, natural language processing, compilers and interpreters, computational theory, tractability problems and algorithmic efficiency.
-        [GPA: 3.56]
-      </paragraph>
-    </entry>
-    <entry>
-      <name>Budapest Semesters in Mathematics</name>
-      <link>http://www.stolaf.edu/depts/math/budapest</link>
-      <dates>Spring 1999</dates>
-      <location>Budapest, Hungary</location>
-      <paragraph>
-        Studied measure theory, integration theory (generalized Lebesgue integrals), Lie Algebras, functional analysis, Euclidean, hyperbolic and projective geometries with applications to computer graphics.
-      </paragraph>
-    </entry>
-    <entry>
-      <name>Columbia University</name>
-      <link>http://www.columbia.edu/</link>
-      <dates>1994-1996</dates>
-      <location>New York, NY</location>
-      <paragraph>
-        Audited courses in analysis and group theory.
-      </paragraph>
-    </entry>
-    <entry>
-      <name>Regis High School</name>
-      <link>http://www.regis-nyc.org/</link>
-      <dates>1991-1996</dates>
-      <location>New York, NY</location>
-    </entry>
-  </section>
-
   <section title="Work Experience">
     <entry>
       <name>Adtuitive, Inc.</name>
@@ -143,6 +93,56 @@
       <paragraph>
         Wrote database query and information extraction programs in ALGOL, C, C++ and Perl. Worked in Windows, UNIX, Linux and mainframe environments. Assisted in network administration; installed and maintained PC hardware and software.
       </paragraph>
+    </entry>
+  </section>
+
+  <section title="Education">
+    <entry>
+      <name>University of California at Santa Barbara</name>
+      <link>http://www.cs.ucsb.edu/</link>
+      <dates>2002-present (in absentia)</dates>
+      <location>Santa Barbara, CA</location>
+      <paragraph>
+        PhD in Computer Science expected in September 2009.
+        Field of research: mathematical modeling and analysis of local area network traffic, especially using linear analysis techniques such as singular value decomposition, nonnegative matrix factorization, low-rank matrix completion, and linear subspace segmentation.
+        Other major interests: parallel scientific computing, distributed systems, programming languages, computational theory, security and cryptography.
+        Graduate studies include: algorithmic theory, distributed systems, modern programming languages and systems, automata-based complexity, networking, mobile and wireless computing, delay-tolerant networking, security, game theory, information theory, and stochastic processes.
+        [GPA: 4.0]
+      </paragraph>
+    </entry>
+    <entry>
+      <name>Harvard University</name>
+      <link>http://www.harvard.edu/</link>
+      <dates>1996-2000</dates>
+      <location>Cambridge, MA</location>
+      <paragraph>
+        BA degree in Mathematics with honors received in June 2000. Harvard College Scholarship recipient. Have in-depth working knowledge of all branches of modern mathematics including analysis, geometry, abstract algebra, descriptive and classical set theory, point-set and algebraic topology. Course work in computer science included: network programming, mobile and wireless networking, mobile IP, routing protocols, natural language processing, compilers and interpreters, computational theory, tractability problems and algorithmic efficiency.
+        [GPA: 3.56]
+      </paragraph>
+    </entry>
+    <entry>
+      <name>Budapest Semesters in Mathematics</name>
+      <link>http://www.stolaf.edu/depts/math/budapest</link>
+      <dates>Spring 1999</dates>
+      <location>Budapest, Hungary</location>
+      <paragraph>
+        Studied measure theory, integration theory (generalized Lebesgue integrals), Lie Algebras, functional analysis, Euclidean, hyperbolic and projective geometries with applications to computer graphics.
+      </paragraph>
+    </entry>
+    <entry>
+      <name>Columbia University</name>
+      <link>http://www.columbia.edu/</link>
+      <dates>1994-1996</dates>
+      <location>New York, NY</location>
+      <paragraph>
+        Audited courses in analysis and group theory.
+      </paragraph>
+    </entry>
+    <entry>
+      <name>Regis High School</name>
+      <link>http://www.regis-nyc.org/</link>
+      <dates>1991-1996</dates>
+      <location>New York, NY</location>
     </entry>
   </section>
 
