@@ -7,11 +7,11 @@
     <entry>
       <name>University of California at Santa Barbara</name>
       <link>http://www.cs.ucsb.edu/</link>
-      <dates>2002-present</dates>
+      <dates>2002-present (in absentia)</dates>
       <location>Santa Barbara, CA</location>
       <paragraph>
         PhD in Computer Science expected in September 2009.
-        Field of research: mathematical modeling and analysis of local area network traffic, especially using cutting-edge linear analysis techniques such as nonnegative matrix factorization, matrix completion, and linear subspace segmentation.
+        Field of research: mathematical modeling and analysis of local area network traffic, especially using linear analysis techniques such as singular value decomposition, nonnegative matrix factorization, low-rank matrix completion, and linear subspace segmentation.
         Other major interests: parallel scientific computing, distributed systems, programming languages, computational theory, security and cryptography.
         Graduate studies include: algorithmic theory, distributed systems, modern programming languages and systems, automata-based complexity, networking, mobile and wireless computing, delay-tolerant networking, security, game theory, information theory, and stochastic processes.
         [GPA: 4.0]
