@@ -38,14 +38,15 @@ table p {
 .name {
 	color: #191919;
 	margin-bottom: 6px;
-	letter-spacing: 2px;
+	letter-spacing: 1px;
 	font-size: 31px;
 	font-weight: normal;
 }
-.email {
+.email, .site {
 	color: #4c4c4c;
 	font-size: 14px;
 	margin-bottom: 2px;
+	padding: 1px;
 }
 
 .address {

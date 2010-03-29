@@ -27,7 +27,6 @@
         <td width="40%" align="center">
           <h1 class="name"><xsl:value-of select="name"/></h1>
           <div class="email">
-            <xsl:text>[</xsl:text>
             <a><xsl:attribute name="href">
               <xsl:text>mailto:</xsl:text>
               <xsl:value-of select="name"/>
@@ -37,7 +36,15 @@
                </xsl:attribute>
               <i><xsl:value-of select="email"/></i>
             </a>
-            <xsl:text>]</xsl:text>
+          </div>
+          <div class="site">
+            <a><xsl:attribute name="href">
+              <xsl:text>http://</xsl:text>
+              <xsl:value-of select="site"/>
+              <xsl:text>/</xsl:text>
+               </xsl:attribute>
+              <i><xsl:value-of select="site"/></i>
+            </a>
           </div>
         </td>
         <td width="30%" align="right">
