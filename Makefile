@@ -4,11 +4,11 @@ host=linus
 
 default: resume.html
 
-%.html: %.xml resume.xsl tidy.conf
+%.html: %.xml resume.css resume.xsl tidy.conf
 	$(call xslt,resume.xsl,$<,$@)
 	$(tidy) -config tidy.conf $@ || true
 
-upload: resume.html resume.css
+upload: resume.html
 	scp $^ $(host):public_html/resume/
 	open http://cs.ucsb.edu/~sgk/resume
 
