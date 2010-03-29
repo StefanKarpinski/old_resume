@@ -5,13 +5,26 @@
 
   <section title="Work Experience">
     <entry>
-      <name>Adtuitive, Inc.</name>
-      <link>http://www.adtuitive.com/</link>
-      <dates>2009-present</dates>
+      <name>Etsy Inc.</name>
+      <link>http://www.etsy.com/</link>
+      <dates>December 2009-present</dates>
       <location>New York, NY</location>
-      <position>Senior Developer &amp; Researcher</position>
+      <position>Data Scientist</position>
       <paragraph>
-        Still getting on my feet.
+        Mathematical modeling of user taste, and personalized recommendations of shops and items across the website based on taste models.
+        Design and deployment of systems required to implement these recommendations at scale, in real time.
+        Design, development, and deployment of systems to collect, aggregate, and analyze all events on site and events from internal systems.
+      </paragraph>
+    </entry>
+    <entry>
+      <name>Adtuitive Inc.</name>
+      <link>http://www.adtuitive.com/</link>
+      <dates>October 2009-December 2009</dates>
+      <location>New York, NY</location>
+      <position>Senior Researcher &amp; Developer</position>
+      <paragraph>
+        Built data scalable systems for processing and analyzing click-stream data using Hadoop, Cascading, JRuby, and Elastic MapReduce.
+        Adtuitive was purchased by Etsy in December of 2009.
       </paragraph>
     </entry>
     <entry>
@@ -103,7 +116,7 @@
       <dates>2002-present (in absentia)</dates>
       <location>Santa Barbara, CA</location>
       <paragraph>
-        PhD in Computer Science expected in January 2010.
+        PhD in Computer Science expected in 2010.
         Field of research: mathematical modeling and analysis of local area network traffic, especially using linear analysis techniques such as singular value decomposition, nonnegative matrix factorization, low-rank matrix completion, and linear subspace segmentation.
         Other major interests: parallel scientific computing, distributed systems, programming languages, computational theory, security and cryptography.
         Graduate studies include: algorithmic theory, distributed systems, modern programming languages and systems, automata-based complexity, networking, mobile and wireless computing, delay-tolerant networking, security, game theory, information theory, and stochastic processes.
@@ -151,7 +164,7 @@
       Creating original solutions to difficult problems. Learning new skills quickly with minimal instruction.
     </paragraph>
     <paragraph label="Computers">
-      Extensive experience using, administrating and programming for Linux, UNIX and Mac OS X. A thorough understanding of good programming practices and techniques, such as modularity and object-orientation, that allow creation of more robust, maintainable, efficient and portable code. Extensive experience with C, Ruby (and Rails), Perl, shell scripting, PostgreSQL, Mathematica, Matlab, R, XML, XSLT, LaTeX, GNU Make, Git, Subversion/CVS, BitKeeper, and Perforce. Proficient in Java, C++, Python, Lisp, Pascal, Tcl, MySQL, Apache, Javascript, HTML, and CSS.</paragraph>
+      Extensive experience using, administrating and programming for Linux, UNIX and Mac OS X. A thorough understanding of good programming practices and techniques, such as test-driven development, agile programming, modularity and object-orientation, that allow creation of more robust, maintainable code. Extensive experience with C, Ruby (and Rails), JRuby, Hadoop, Cascading, Elastic MapReduce, EC2, Perl, shell scripting, PostgreSQL, Mathematica, Matlab, R, LaTeX, GNU Make, and Git. Proficient in Java, C++, Python, Pascal, Tcl, MySQL, XML, XSLT, Apache, Javascript, HTML, CSS, Subversion/CVS, BitKeeper, and Perforce.</paragraph>
     <paragraph label="Languages">
       Fluent in English and Swedish; proficient in German and Latin; basic knowledge of French and Spanish.
     </paragraph>
