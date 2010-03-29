@@ -11,9 +11,21 @@
       <location>New York, NY</location>
       <position>Data Scientist</position>
       <paragraph>
-        Mathematical modeling of user taste, and personalized recommendations of shops and items across the website based on taste models.
-        Design and deployment of systems required to implement these recommendations at scale, in real time.
-        Design, development, and deployment of systems to collect, aggregate, and analyze all events on site and events from internal systems.
+        <project>
+          <name>Personalization</name>
+          <date>2010-present</date>
+          <description>
+            Mathematical modeling of user taste, and personalized recommendations of shops and items across the website based on taste models.
+            Design and deployment of systems required to implement these recommendations at scale, in real time.
+          </description>
+        </project>
+        <project>
+          <name>Analytics</name>
+          <date>2010-present</date>
+          <description>
+            Design, development, and deployment of scalable systems to collect, aggregate, and analyze all events on site and events from internal systems, in near real time.
+          </description>
+        </project>
       </paragraph>
     </entry>
     <entry>
