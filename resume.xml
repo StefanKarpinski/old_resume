@@ -173,11 +173,8 @@
   </section>
 
   <section title="Skills, Interests &amp; Other">
-    <paragraph label="General">
-      Creating original solutions to difficult problems. Learning new skills quickly with minimal instruction.
-    </paragraph>
     <paragraph label="Computers">
-      Extensive experience using, administrating and programming for Linux, UNIX and Mac OS X. A thorough understanding of good programming practices and techniques, such as test-driven development, agile programming, modularity and object-orientation, that allow creation of more robust, maintainable code. Extensive experience with C, Ruby (and Rails), JRuby, Hadoop, Cascading, Elastic MapReduce, EC2, Perl, shell scripting, PostgreSQL, Mathematica, Matlab, R, LaTeX, GNU Make, and Git. Proficient in Java, C++, Python, Pascal, Tcl, MySQL, XML, XSLT, Apache, Javascript, HTML, CSS, Subversion/CVS, BitKeeper, and Perforce.</paragraph>
+      Experienced using, administrating and programming for Linux, Mac OS X, and other UNIX systems. A thorough understanding of good programming practices and techniques, including test-driven development, agile programming, modularity, and object-orientation, that allow creation of more robust, maintainable code. Extensive experience with C, Ruby (and Rails), JRuby, Hadoop, Cascading, Cascading.JRuby (primary contributor), Elastic MapReduce, EC2 (and other Amazon web services), Perl, shell scripting, PostgreSQL, Mathematica, Matlab, R, LaTeX, GNU Make, and Git. Proficient in Java, C++, Python, Pascal, Tcl, MySQL, XML, XSLT, Apache, Javascript, ActionScript, HTML, CSS, Subversion, CVS, BitKeeper, and Perforce.</paragraph>
     <paragraph label="Languages">
       Fluent in English and Swedish; proficient in German and Latin; basic knowledge of French and Spanish.
     </paragraph>
