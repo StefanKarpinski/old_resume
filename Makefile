@@ -1,6 +1,6 @@
 xslt=xsltproc $1 $2 > $3
 tidy=tidy
-host=linus
+host=csil
 
 default: resume.html
 

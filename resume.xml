@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" ?>
 <resume>
   <name>Stefan Karpinski</name>
   <email>stefan.karpinski@post.harvard.edu</email>
@@ -37,7 +37,7 @@
       <position>Senior Researcher &amp; Developer</position>
       <paragraph>
         Built data scalable systems for processing and analyzing click-stream data using Hadoop, Cascading, JRuby, and Elastic MapReduce.
-        Adtuitive was purchased by Etsy in December of 2009.
+        Adtuitive was acquired by Etsy in December of 2009.
       </paragraph>
     </entry>
     <entry>
@@ -179,9 +179,13 @@
       Fluent in English and Swedish; proficient in German and Latin; basic knowledge of French and Spanish.
     </paragraph>
     <paragraph label="Patents">
-       The Fast Failover algorithm developed at Citrix Online in 2004 is patent pending at the USPTO [<link href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1=%2220080069104%22.PGNR.&amp;OS=DN/20080069104&amp;RS=DN/20080069104">Application 20080069104</link>].     </paragraph>
+       The Fast Failover algorithm developed at Citrix Online is patented in the United States [<link href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=16&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=20110301.PD.&amp;s2=%28FL.ASST.%29&amp;OS=ISD/03/01/2011+AND+AS/FL&amp;RS=ISD/03/01/2011+AND+AS/FL">USPTO Patent 7,898,968</link>].
+    </paragraph>
     <paragraph label="World Record">
       Fastest single-fare per-navigation of the New York City Subway system, riding trains stopping at each of the 468 stations in the system. New record time: 24 hours, 54 minutes, 3 seconds. Previous record: 26 hours, 21 minutes, 8 seconds. Co-holders: Bill Amarosa (Queens), Michael Boyle (Staten Island), Brian Brockmeyer (Brooklyn), Stefan Karpinski (Manhattan), Jason Laska (The Bronx), and Andrew Weir (New Jersey). We all went to high school together and completed the challenge to raise money for the school. [<link href="http://rapidtransitchallenge.com/">our website</link>].
+    </paragraph>
+    <paragraph label="Erdos Number">
+      At most five: Paul Erdos (0), Vitaly Bergelson (1), Terence C. Tao (2), Emmanuel Candes (3), John R. Gilbert (4), Stefan Karpinski (5).
     </paragraph>
     <paragraph label="Interests">
       Music of all varieties, reading, traveling, wine &amp; food, ultimate frisbee, learning languages, riding the subway.
